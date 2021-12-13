@@ -1,0 +1,7 @@
+Cases: 
+270,940,121 
+Deaths: 
+5,327,137
+Recovery: 
+243,539,590
+Death rate: 2%Recovery rate: 90%
