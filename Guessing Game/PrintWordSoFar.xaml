@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>999.333333333333,738</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>999.333333333333,840</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>PrintWordSoFar_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -65,7 +65,7 @@
       <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="PrintWordSoFar" sap:VirtualizedContainerService.HintSize="690.666666666667,633.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="PrintWordSoFar" sap:VirtualizedContainerService.HintSize="690.666666666667,735.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="wordSoFar">
         <Variable.Default>
@@ -117,5 +117,6 @@
       </ui:ForEach.Body>
     </ui:ForEach>
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="648.666666666667,58.6666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;So currently, the word looks like this: &quot;+wordSoFar]" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="648.666666666667,62" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[wordSoFar]" />
   </Sequence>
 </Activity>
