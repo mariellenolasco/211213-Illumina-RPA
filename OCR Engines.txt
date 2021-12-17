@@ -1,0 +1,9 @@
+OCR
+
+Engines
+\- Google (Tesseract) Free (UiPath default)
+\- Microsoft (MODI) 
+\- Rossum
+\- OmniPage
+\- ..
+\- Abbyy
