@@ -1,0 +1,13 @@
+Data Scraping - Structured Data
+Data Scraping - SemiStructured Data
+Screen Scraping - UnStructured Data (Full Text, Visible Text, Image Text)
+OCR
+Install and Use OmniPage OCR Engine
+PiP (Picture in Picture)
+Attended Deployment (local deployment)
+Assistant and Execution of Processes in Attended Mode through Assistant
+Command Line Execution
+Task Scheduling through Windows "Task Scheduler"
+Package Management
+Explained: "Background Process" vs "Foreground Process"
+Explained: "Attended" vs "UnAttended" mode of execution
