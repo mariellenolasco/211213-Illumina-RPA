@@ -1,3 +1,5 @@
+Memory Recall
+Quiz
 Data Scraping - Structured Data
 Data Scraping - SemiStructured Data
 Screen Scraping - UnStructured Data (Full Text, Visible Text, Image Text)
